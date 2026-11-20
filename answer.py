@@ -6,6 +6,7 @@ from embed import _project
 from db import vec
 from classify import MODEL, LOCATION
 
+MIN_CHARS = 120    # shorter chunks are title-only stubs, not evidence
 MIN_SCORE = 0.55   # starting value; tune against the eval
 TOP_K = 4
 
@@ -19,6 +20,7 @@ Rules:
 - If the context does not directly answer the question, set answerable=false and leave answer empty.
 - Do not state any number, date, rate or deadline that is not in the context.
 - List the ids of the context chunks you used in sources.
+- Never answer by pointing the customer to an article id or to the support team. If the context does not contain the actual steps or facts, set answerable=false.
 - Reply in the customer's language (code: {language}). At most 120 words.
 
 Context:
@@ -66,7 +68,7 @@ def answer(conn, region, subject, body, language, as_of):
     out = {"top_score": round(chunks[0]["score"], 3) if chunks else 0.0,
            "retrieved": [c["source_id"] for c in chunks], "answer": "", "sources": [],
            "answerable": False, "reason": "", "contexts": [], "_tokens_in": 0, "_tokens_out": 0}
-    use = [c for c in chunks if c["score"] >= MIN_SCORE]
+    use = [c for c in chunks if c["score"] >= MIN_SCORE and len(c["text"]) >= MIN_CHARS]
     if not use:
         out["reason"] = "weak retrieval"
     else:
