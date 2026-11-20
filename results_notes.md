@@ -1,0 +1,12 @@
+# Results so far (Thu 19 Nov)
+- PII: 0 leaks / 900 planted; 0 residue / 1367 real tickets
+- Normalise gate: 0 violations in both regions (IN 954, UAE 399); customer-in-wrong-region 0
+- Routing accuracy (queue): 95.8% on 818 test tickets (target 95%); today's intake 85.9%
+- Safety gate: 36 of 298 hard-human cases auto-answered (target 0) -> FAIL, investigating
+- Classify latency: p50 0.64s, p95 17.4s (inflated by retries / quota)
+- Pipeline 20-ticket run: 3 answered, 16 human, 1 duplicate; tokens/ticket 891 in / 63 out
+- Date-aware retrieval: 15 Jul -> KB-0142/0143 (INR 15,000); 10 Sep -> R-IN-PF-2026-08 (INR 25,000)
+- Quota: embedding quota 429s on textembedding-gecko; throttle added (embed_safe.py)
+- Residency: GCP has no UAE Cloud SQL region -> Doha stand-in; UAE masked text classified in Mumbai
+- Data: 3 ticket schemas, 14 duplicate IDs (9 identical, 5 conflicting), 35 category spellings -> 9
+- Dedupe index: 272/954 India, 0 UAE (build stopped, quota)

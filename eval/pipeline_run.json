@@ -1,0 +1,2633 @@
+[
+ {
+  "ticket_id": "PN-100023",
+  "region": "IN",
+  "path": "answer",
+  "queue": "Statutory-Compliance",
+  "category": "Statutory",
+  "reasons": [],
+  "language": "hinglish",
+  "answer": "EPF statutory wage ceiling INR 15,000 per month hai. Basic plus DA par PF 12% compute hota hai ceiling tak. Jo employees INR 15,000 se zyada draw karte hain, woh actual wage par contribute kar sakte hain sirf ek joint option ke through.",
+  "sources": [
+   "KB-0142"
+  ],
+  "contexts": [
+   "PF: wage ceiling and contribution calculation. The EPF statutory wage ceiling is INR 15,000 per month. PF is computed at 12% of basic+DA up to the ceiling. Employees drawing more than INR 15,000 may contribute on actual wage only through a joint option.",
+   "PF: employees above the wage ceiling (voluntary and restricted contribution). For employees above INR 15,000 wage, employer contribution is restricted to the ceiling unless the joint option is exercised.",
+   "ESI: contribution rates and wage limit.",
+   "## T-10 days (by the 15th)\n1. Compliance India and Compliance UAE send Support a **statutory change notice** for anything taking effect in the coming cycle.\n2. Content Team **updates the affected KB articles** before the change goes live and updates the \"last reviewed\" date.\n3. Support Operations briefs all L1/L2 agents in the weekly huddle."
+  ],
+  "top_score": 0.787,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "PF wage ceiling kitna hai?",
+  "body": "PF ka wage ceiling abhi kitna hai? Basic 20000 wale employee ka PF kaise calculate hoga? KB KB-0142 follow kiya tha.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.063,
+   "classify": 1.641,
+   "dedupe": 0.707,
+   "route": 0.0,
+   "answer": 3.407
+  },
+  "total_s": 5.818,
+  "tokens_in": 1229,
+  "tokens_out": 140
+ },
+ {
+  "ticket_id": "PN-101334",
+  "region": "IN",
+  "path": "human",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "hinglish",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "Downloading payslips in bulk.",
+   "Bank file formats: NEFT, RTGS and bulk transfer.",
+   "Adding a new employee (single and bulk upload).",
+   "How to run monthly payroll."
+  ],
+  "top_score": 0.673,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Payslip email kaise bhejein",
+  "body": "Sabhi employees ko payslip email kaise bhejein? Option nahi mil raha.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.877,
+   "dedupe": 0.667,
+   "route": 0.0,
+   "answer": 2.889,
+   "handoff": 0.128
+  },
+  "total_s": 4.623,
+  "tokens_in": 1011,
+  "tokens_out": 64
+ },
+ {
+  "ticket_id": "PN-101402",
+  "region": "IN",
+  "path": "human",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "hinglish",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "Downloading payslips in bulk.",
+   "Bank file formats: NEFT, RTGS and bulk transfer.",
+   "Adding a new employee (single and bulk upload).",
+   "How to run monthly payroll."
+  ],
+  "top_score": 0.673,
+  "duplicate_of": null,
+  "similarity": 0.733,
+  "subject": "Payslip email kaise bhejein",
+  "body": "Sabhi employees ko payslip email kaise bhejein? Option nahi mil raha.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.574,
+   "dedupe": 1.404,
+   "route": 0.0,
+   "answer": 2.418,
+   "handoff": 0.127
+  },
+  "total_s": 4.585,
+  "tokens_in": 1011,
+  "tokens_out": 64
+ },
+ {
+  "ticket_id": "PN-100012",
+  "region": "IN",
+  "path": "human",
+  "queue": "Reports-Analytics",
+  "category": "Reports",
+  "reasons": [
+   "suspected defect"
+  ],
+  "language": "hinglish",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Report blank aa rahi hai",
+  "body": "Monthly salary register ka report download karne pe blank file aa rahi hai.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.589,
+   "dedupe": 5.739,
+   "route": 0.0,
+   "handoff": 0.126
+  },
+  "total_s": 6.516,
+  "tokens_in": 656,
+  "tokens_out": 39
+ },
+ {
+  "ticket_id": "PN-100447",
+  "region": "IN",
+  "path": "human",
+  "queue": "Reports-Analytics",
+  "category": "Reports",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "Custom report builder.",
+   "## Tiers\n- **L1**: first-line agents (24 FTE planned). Resolve from KB, categorise, gather information.\n- **L2**: senior agents and domain specialists (12). Complex payroll and statutory cases, workarounds.\n- **L3**: product-support engineers (6). Reproduce defects, own the Jira escalation, liaise with Engineering.",
+   "Adding a new employee (single and bulk upload).",
+   "Configuring leave policies and carry-forward."
+  ],
+  "top_score": 0.651,
+  "duplicate_of": null,
+  "similarity": 0.541,
+  "subject": "Custom report: headcount by cost centre",
+  "body": "How can I build a headcount by cost centre report with joiners and leavers?",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.872,
+   "dedupe": 0.941,
+   "route": 0.0,
+   "answer": 2.839,
+   "handoff": 0.127
+  },
+  "total_s": 4.84,
+  "tokens_in": 1072,
+  "tokens_out": 61
+ },
+ {
+  "ticket_id": "PN-101499",
+  "region": "IN",
+  "path": "human",
+  "queue": "Statutory-Compliance",
+  "category": "Statutory",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "Professional Tax: state-wise slabs and due dates.",
+   "TDS slabs (new regime) for FY2026-27. Effective from 2026-04-01. Previous: FY25-26 slabs. Now: FY26-27 slabs. Source: Finance Act circular (fictional).",
+   "TDS: new regime slabs FY2026-27 and Form 16.",
+   "Exporting statutory registers (Form 5, 6, 7)."
+  ],
+  "top_score": 0.752,
+  "duplicate_of": null,
+  "similarity": 0.616,
+  "subject": "Professional Tax slab for new state",
+  "body": "We opened an office in a new state. Which Professional Tax slab applies and where do we configure it?",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.123,
+   "classify": 0.565,
+   "dedupe": 0.453,
+   "route": 0.0,
+   "answer": 8.417,
+   "handoff": 0.128
+  },
+  "total_s": 9.686,
+  "tokens_in": 1122,
+  "tokens_out": 62
+ },
+ {
+  "ticket_id": "PN-100343",
+  "region": "IN",
+  "path": "human",
+  "queue": "Onboarding",
+  "category": "Onboarding",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "Data export and employee data deletion requests.",
+   "How to run monthly payroll.",
+   "## T-10 days (by the 15th)\n1. Compliance India and Compliance UAE send Support a **statutory change notice** for anything taking effect in the coming cycle.\n2. Content Team **updates the affected KB articles** before the change goes live and updates the \"last reviewed\" date.\n3. Support Operations briefs all L1/L2 agents in the weekly huddle.",
+   "Downloading payslips in bulk."
+  ],
+  "top_score": 0.596,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Data migration from old payroll system",
+  "body": "How do we import last year's YTD figures from our previous vendor?",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.894,
+   "dedupe": 0.654,
+   "route": 0.0,
+   "answer": 67.73,
+   "handoff": 0.251
+  },
+  "total_s": 69.592,
+  "tokens_in": 1081,
+  "tokens_out": 62
+ },
+ {
+  "ticket_id": "PN-100003",
+  "region": "IN",
+  "path": "human",
+  "queue": "Payroll-Ops",
+  "category": "Payroll",
+  "reasons": [
+   "money impact",
+   "Payroll needs account data or approval"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "PF amount on payslip vs ECR",
+  "body": "PF contribution in the payslip register does not match what the ECR file shows for 18 employees. Referring to KB-0142. Please clarify.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 9.538,
+   "dedupe": 0.876,
+   "route": 0.0,
+   "handoff": 0.127
+  },
+  "total_s": 10.603,
+  "tokens_in": 679,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-100915",
+  "region": "IN",
+  "path": "human",
+  "queue": "Billing",
+  "category": "Billing",
+  "reasons": [
+   "money impact",
+   "Billing needs account data or approval",
+   "duplicate of PN-100702"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": "PN-100702",
+  "similarity": 1.0,
+  "subject": "Refund status",
+  "body": "Following up on the refund promised last month. Please confirm status.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 1.019,
+   "dedupe": 0.673,
+   "route": 0.0,
+   "handoff": 0.125
+  },
+  "total_s": 1.88,
+  "tokens_in": 652,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-100458",
+  "region": "IN",
+  "path": "answer",
+  "queue": "Statutory-Compliance",
+  "category": "Statutory",
+  "reasons": [],
+  "language": "en",
+  "answer": "The EPF statutory wage ceiling is INR 15,000 per month. For employees drawing more than INR 15,000, the employer contribution is restricted to the ceiling unless a joint option is exercised, in which case employees may contribute on actual wage.",
+  "sources": [
+   "KB-0143",
+   "KB-0142"
+  ],
+  "contexts": [
+   "PF: employees above the wage ceiling (voluntary and restricted contribution). For employees above INR 15,000 wage, employer contribution is restricted to the ceiling unless the joint option is exercised.",
+   "PF: wage ceiling and contribution calculation. The EPF statutory wage ceiling is INR 15,000 per month. PF is computed at 12% of basic+DA up to the ceiling. Employees drawing more than INR 15,000 may contribute on actual wage only through a joint option.",
+   "## T-10 days (by the 15th)\n1. Compliance India and Compliance UAE send Support a **statutory change notice** for anything taking effect in the coming cycle.\n2. Content Team **updates the affected KB articles** before the change goes live and updates the \"last reviewed\" date.\n3. Support Operations briefs all L1/L2 agents in the weekly huddle.",
+   "## Tiers\n- **L1**: first-line agents (24 FTE planned). Resolve from KB, categorise, gather information.\n- **L2**: senior agents and domain specialists (12). Complex payroll and statutory cases, workarounds.\n- **L3**: product-support engineers (6). Reproduce defects, own the Jira escalation, liaise with Engineering."
+  ],
+  "top_score": 0.743,
+  "duplicate_of": null,
+  "similarity": 0.576,
+  "subject": "Question on PF wage ceiling",
+  "body": "What is the current PF wage ceiling and how should we treat employees above it in the July run? Your article KB-0143 is what we followed so far.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.662,
+   "dedupe": 1.585,
+   "route": 0.0,
+   "answer": 7.212
+  },
+  "total_s": 9.522,
+  "tokens_in": 1292,
+  "tokens_out": 142
+ },
+ {
+  "ticket_id": "PN-101043",
+  "region": "IN",
+  "path": "answer",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [],
+  "language": "hinglish",
+  "answer": "Ramco Payce me bulk me employees upload karne ke liye aap [KB-0102] Adding a new employee (single and bulk upload) ka use kar sakte hain. Lekin template download nahi hone ke baare me context me koi jaankari nahi di gayi hai.",
+  "sources": [
+   "KB-0102"
+  ],
+  "contexts": [
+   "Adding a new employee (single and bulk upload).",
+   "Downloading payslips in bulk.",
+   "PF: generating and uploading the ECR file.",
+   "Data export and employee data deletion requests."
+  ],
+  "top_score": 0.736,
+  "duplicate_of": null,
+  "similarity": 0.593,
+  "subject": "Bulk me employees upload kaise karein",
+  "body": "Bulk me employees ko upload kaise karte hain? Template download nahi ho raha.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 17.605,
+   "dedupe": 0.654,
+   "route": 0.0,
+   "answer": 3.382
+  },
+  "total_s": 21.704,
+  "tokens_in": 1005,
+  "tokens_out": 135
+ },
+ {
+  "ticket_id": "PN-100041",
+  "region": "IN",
+  "path": "answer",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [],
+  "language": "hinglish",
+  "answer": "Ramco Payce me bulk me employees ko upload karne aur single upload ke liye aap [KB-0102] ka use kar sakte hain. Template download na hone ki samasya ke liye kripya support team se sampark karein.",
+  "sources": [
+   "KB-0102"
+  ],
+  "contexts": [
+   "Adding a new employee (single and bulk upload).",
+   "Downloading payslips in bulk.",
+   "PF: generating and uploading the ECR file.",
+   "Data export and employee data deletion requests."
+  ],
+  "top_score": 0.736,
+  "duplicate_of": null,
+  "similarity": 0.692,
+  "subject": "Bulk me employees upload kaise karein",
+  "body": "Bulk me employees ko upload kaise karte hain? Template download nahi ho raha.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.642,
+   "dedupe": 0.56,
+   "route": 0.0,
+   "answer": 2.991
+  },
+  "total_s": 4.255,
+  "tokens_in": 1005,
+  "tokens_out": 129
+ },
+ {
+  "ticket_id": "PN-101426",
+  "region": "IN",
+  "path": "human",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "Adding a new employee (single and bulk upload).",
+   "How to run monthly payroll.",
+   "Configuring leave policies and carry-forward.",
+   "Downloading payslips in bulk."
+  ],
+  "top_score": 0.647,
+  "duplicate_of": null,
+  "similarity": 0.686,
+  "subject": "How to add a new salary component",
+  "body": "Steps to add a new allowance and make it taxable please.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.582,
+   "dedupe": 0.717,
+   "route": 0.0,
+   "answer": 2.404,
+   "handoff": 0.125
+  },
+  "total_s": 3.89,
+  "tokens_in": 991,
+  "tokens_out": 63
+ },
+ {
+  "ticket_id": "PN-100641",
+  "region": "IN",
+  "path": "human",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "hinglish",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "Downloading payslips in bulk.",
+   "Bank file formats: NEFT, RTGS and bulk transfer.",
+   "Adding a new employee (single and bulk upload).",
+   "How to run monthly payroll."
+  ],
+  "top_score": 0.673,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Payslip email kaise bhejein",
+  "body": "Sabhi employees ko payslip email kaise bhejein? Option nahi mil raha.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.586,
+   "dedupe": 2.375,
+   "route": 0.0,
+   "answer": 12.299,
+   "handoff": 0.128
+  },
+  "total_s": 15.449,
+  "tokens_in": 1011,
+  "tokens_out": 64
+ },
+ {
+  "ticket_id": "PN-101295",
+  "region": "IN",
+  "path": "human",
+  "queue": "Onboarding",
+  "category": "Onboarding",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "Data export and employee data deletion requests.",
+   "How to run monthly payroll.",
+   "## T-10 days (by the 15th)\n1. Compliance India and Compliance UAE send Support a **statutory change notice** for anything taking effect in the coming cycle.\n2. Content Team **updates the affected KB articles** before the change goes live and updates the \"last reviewed\" date.\n3. Support Operations briefs all L1/L2 agents in the weekly huddle.",
+   "Downloading payslips in bulk."
+  ],
+  "top_score": 0.596,
+  "duplicate_of": null,
+  "similarity": 0.611,
+  "subject": "Data migration from old payroll system",
+  "body": "How do we import last year's YTD figures from our previous vendor?",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 6.198,
+   "dedupe": 6.09,
+   "route": 0.0,
+   "answer": 2.983,
+   "handoff": 0.125
+  },
+  "total_s": 15.458,
+  "tokens_in": 1081,
+  "tokens_out": 62
+ },
+ {
+  "ticket_id": "PN-100676",
+  "region": "IN",
+  "path": "human",
+  "queue": "Payroll-Ops",
+  "category": "Payroll",
+  "reasons": [
+   "money impact",
+   "suspected defect",
+   "Payroll needs account data or approval"
+  ],
+  "language": "hinglish",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Salary nahi aayi",
+  "body": "Payroll run kar diya tha lekin 7 employees ke account me salary nahi aayi. Status 'Completed' dikha raha hai. Please urgent check karo, salary week hai.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.866,
+   "dedupe": 0.693,
+   "route": 0.0,
+   "handoff": 0.125
+  },
+  "total_s": 1.746,
+  "tokens_in": 676,
+  "tokens_out": 39
+ },
+ {
+  "ticket_id": "PN-100086",
+  "region": "IN",
+  "path": "human",
+  "queue": "Onboarding",
+  "category": "Onboarding",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "Exporting statutory registers (Form 5, 6, 7).",
+   "## 1. Intake\n1. Tickets arrive from email, the in-app widget, the partner/reseller portal, WhatsApp (shared inbox), and phone (agent logs a ticket after the call).\n2. **Every ticket is categorised at intake.** The customer or the agent selects one of the nine categories from the dropdown. The category cannot be left blank.\n3. Category drives **automatic routing** to the owning queue. No manual routing is required.\n\n| Category | Queue |\n|---|---|\n| Payroll | Payroll-Ops |\n| Statutory | Statutory-Compliance |\n| How-To | General-L1 |\n| Reports | Reports-Analytics |\n| Leave & Attendance | Leave-Attendance |\n| Integration | Integrations |\n| Billing | Billing |\n| Access / Login | Access-Support |\n| Onboarding | Onboarding |",
+   "## During payroll week\n7. First response targets are halved for P1 payroll tickets (30 minutes).\n8. Agents must not re-categorise tickets without Lead approval.\n9. If the same issue is reported by 5+ employees of one customer, the Lead declares an incident.\n10. Daily 17:00 stand-up: top issues, backlog age, SLA risk list.",
+   "## 4. Quality\n10. Target first-response compliance: 95%. Target first-touch resolution: 70%.\n11. Any suspected personal data pasted into a ticket should be masked by the agent before the ticket is shared internally."
+  ],
+  "top_score": 0.599,
+  "duplicate_of": null,
+  "similarity": 0.512,
+  "subject": "Go-live checklist question",
+  "body": "We are two weeks from go-live. Can someone confirm the statutory settings checklist for our state?",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.647,
+   "dedupe": 1.271,
+   "route": 0.0,
+   "answer": 5.141,
+   "handoff": 0.125
+  },
+  "total_s": 7.245,
+  "tokens_in": 1329,
+  "tokens_out": 62
+ },
+ {
+  "ticket_id": "PN-100491",
+  "region": "IN",
+  "path": "human",
+  "queue": "Reports-Analytics",
+  "category": "Reports",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "Custom report builder.",
+   "## Tiers\n- **L1**: first-line agents (24 FTE planned). Resolve from KB, categorise, gather information.\n- **L2**: senior agents and domain specialists (12). Complex payroll and statutory cases, workarounds.\n- **L3**: product-support engineers (6). Reproduce defects, own the Jira escalation, liaise with Engineering.",
+   "Adding a new employee (single and bulk upload).",
+   "Configuring leave policies and carry-forward."
+  ],
+  "top_score": 0.651,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Custom report: headcount by cost centre",
+  "body": "How can I build a headcount by cost centre report with joiners and leavers?",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 6.581,
+   "dedupe": 0.904,
+   "route": 0.0,
+   "answer": 28.409,
+   "handoff": 0.126
+  },
+  "total_s": 36.082,
+  "tokens_in": 1072,
+  "tokens_out": 61
+ },
+ {
+  "ticket_id": "PN-101210",
+  "region": "IN",
+  "path": "human",
+  "queue": "Reports-Analytics",
+  "category": "Reports",
+  "reasons": [
+   "suspected defect"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Salary register export is blank",
+  "body": "The monthly salary register export gives an empty file. Needed for audit.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 6.599,
+   "dedupe": 0.74,
+   "route": 0.0,
+   "handoff": 0.125
+  },
+  "total_s": 7.526,
+  "tokens_in": 656,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-101246",
+  "region": "IN",
+  "path": "human",
+  "queue": "Payroll-Ops",
+  "category": "Payroll",
+  "reasons": [
+   "money impact",
+   "suspected defect",
+   "Payroll needs account data or approval",
+   "duplicate of PN-101243"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": "PN-101243",
+  "similarity": 1.0,
+  "subject": "Payslip PDF is blank / shows net pay 0",
+  "body": "I opened my payslip for September and the PDF is blank with net pay 0. Others in my team have the same problem. Please fix.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.698,
+   "dedupe": 1.044,
+   "route": 0.0,
+   "handoff": 0.125
+  },
+  "total_s": 1.929,
+  "tokens_in": 678,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-100527",
+  "region": "IN",
+  "path": "human",
+  "queue": "Access-Support",
+  "category": "Access / Login",
+  "reasons": [
+   "suspected defect"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": 0.541,
+  "subject": "SSO login loop",
+  "body": "SSO redirects back to the login page repeatedly for several users.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.719,
+   "dedupe": 0.768,
+   "route": 0.0,
+   "handoff": 0.125
+  },
+  "total_s": 1.675,
+  "tokens_in": 652,
+  "tokens_out": 40
+ },
+ {
+  "ticket_id": "PN-100618",
+  "region": "IN",
+  "path": "human",
+  "queue": "Integrations",
+  "category": "Integration",
+  "reasons": [
+   "suspected defect",
+   "Integration needs account data or approval",
+   "duplicate of PN-100617"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": "PN-100617",
+  "similarity": 0.968,
+  "subject": "Overtime doubled after HRIS sync",
+  "body": "Overtime hours are doubled for 18 warehouse employees after the nightly sync. We cannot approve payroll inputs.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.695,
+   "dedupe": 1.535,
+   "route": 0.0,
+   "handoff": 0.125
+  },
+  "total_s": 2.417,
+  "tokens_in": 666,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-100501",
+  "region": "IN",
+  "path": "human",
+  "queue": "Payroll-Ops",
+  "category": "Payroll",
+  "reasons": [
+   "money impact",
+   "suspected defect",
+   "Payroll needs account data or approval"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": 0.767,
+  "subject": "PF amount on payslip vs ECR",
+  "body": "PF contribution in the payslip register does not match what the ECR file shows for 37 employees. Referring to KB-0142. Please clarify.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.532,
+   "dedupe": 1.121,
+   "route": 0.0,
+   "handoff": 0.125
+  },
+  "total_s": 1.839,
+  "tokens_in": 679,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-100666",
+  "region": "IN",
+  "path": "answer",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [],
+  "language": "hi",
+  "answer": "नया कर्मचारी जोड़ने के लिए आप सिंगल या बल्क अपलोड (KB-0102) का उपयोग कर सकते हैं।",
+  "sources": [
+   "KB-0102"
+  ],
+  "contexts": [
+   "Adding a new employee (single and bulk upload).",
+   "Attendance integration setup (biometric and HRIS connectors).",
+   "Configuring leave policies and carry-forward.",
+   "Data export and employee data deletion requests."
+  ],
+  "top_score": 0.719,
+  "duplicate_of": null,
+  "similarity": 0.597,
+  "subject": "नया कर्मचारी कैसे जोड़ें",
+  "body": "नए कर्मचारी को सिस्टम में कैसे जोड़ें? कृपया स्टेप्स बताएं।",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.628,
+   "dedupe": 1.24,
+   "route": 0.0,
+   "answer": 2.952
+  },
+  "total_s": 4.882,
+  "tokens_in": 1006,
+  "tokens_out": 103
+ },
+ {
+  "ticket_id": "PN-101049",
+  "region": "IN",
+  "path": "human",
+  "queue": "Leave-Attendance",
+  "category": "Leave & Attendance",
+  "reasons": [
+   "money impact"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": 0.729,
+  "subject": "Attendance regularisation not reflecting in payroll",
+  "body": "Regularised attendance days are not reflected in the August payroll inputs.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.611,
+   "dedupe": 1.039,
+   "route": 0.0,
+   "handoff": 0.125
+  },
+  "total_s": 1.837,
+  "tokens_in": 657,
+  "tokens_out": 40
+ },
+ {
+  "ticket_id": "PN-100324",
+  "region": "IN",
+  "path": "human",
+  "queue": "Payroll-Ops",
+  "category": "Payroll",
+  "reasons": [
+   "suspected defect",
+   "Payroll needs account data or approval"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": 0.66,
+  "subject": "Payroll run stuck at 'Processing'",
+  "body": "Our July payroll run has been on Processing for several hours. Finance is waiting to approve. Is the engine down?",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.701,
+   "dedupe": 1.224,
+   "route": 0.0,
+   "handoff": 0.125
+  },
+  "total_s": 2.112,
+  "tokens_in": 667,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-101028",
+  "region": "IN",
+  "path": "human",
+  "queue": "Onboarding",
+  "category": "Onboarding",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "Data export and employee data deletion requests.",
+   "Bank file formats: NEFT, RTGS and bulk transfer.",
+   "## T-10 days (by the 15th)\n1. Compliance India and Compliance UAE send Support a **statutory change notice** for anything taking effect in the coming cycle.\n2. Content Team **updates the affected KB articles** before the change goes live and updates the \"last reviewed\" date.\n3. Support Operations briefs all L1/L2 agents in the weekly huddle.",
+   "PF: generating and uploading the ECR file."
+  ],
+  "top_score": 0.603,
+  "duplicate_of": null,
+  "similarity": 0.61,
+  "subject": "Data migration from old payroll system",
+  "body": "How do we import last year's YTD figures from our previous vendor? PAN [PAN] / Aadhaar [AADHAAR] attached for KYC.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.597,
+   "dedupe": 0.276,
+   "route": 0.0,
+   "answer": 3.53,
+   "handoff": 0.125
+  },
+  "total_s": 4.591,
+  "tokens_in": 1135,
+  "tokens_out": 62
+ },
+ {
+  "ticket_id": "PN-101171",
+  "region": "IN",
+  "path": "human",
+  "queue": "Leave-Attendance",
+  "category": "Leave & Attendance",
+  "reasons": [
+   "P1",
+   "money impact"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Attendance regularisation not reflecting in payroll",
+  "body": "Regularised attendance days are not reflected in the September payroll inputs.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.579,
+   "dedupe": 5.695,
+   "route": 0.0,
+   "handoff": 0.125
+  },
+  "total_s": 6.461,
+  "tokens_in": 657,
+  "tokens_out": 40
+ },
+ {
+  "ticket_id": "PN-100584",
+  "region": "IN",
+  "path": "duplicate",
+  "queue": "Reports-Analytics",
+  "category": "Reports",
+  "reasons": [
+   "duplicate of PN-100447"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": "PN-100447",
+  "similarity": 1.0,
+  "subject": "Custom report: headcount by cost centre",
+  "body": "How can I build a headcount by cost centre report with joiners and leavers?",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 1.008,
+   "dedupe": 37.179,
+   "route": 0.0
+  },
+  "total_s": 38.249,
+  "tokens_in": 661,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-101451",
+  "region": "IN",
+  "path": "duplicate",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [
+   "duplicate of PN-101302"
+  ],
+  "language": "hinglish",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": "PN-101302",
+  "similarity": 1.0,
+  "subject": "Payslip email kaise bhejein",
+  "body": "Sabhi employees ko payslip email kaise bhejein? Option nahi mil raha.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.899,
+   "dedupe": 1.016,
+   "route": 0.0
+  },
+  "total_s": 1.978,
+  "tokens_in": 661,
+  "tokens_out": 41
+ },
+ {
+  "ticket_id": "PN-101264",
+  "region": "IN",
+  "path": "human",
+  "queue": "Payroll-Ops",
+  "category": "Payroll",
+  "reasons": [
+   "money impact",
+   "suspected defect",
+   "Payroll needs account data or approval",
+   "duplicate of PN-101261"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": "PN-101261",
+  "similarity": 1.0,
+  "subject": "Cannot download my payslip",
+  "body": "Downloading my payslip gives a PDF with zero values. Salary was credited, but I need the slip for a loan application.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.496,
+   "dedupe": 1.201,
+   "route": 0.0,
+   "handoff": 0.125
+  },
+  "total_s": 1.884,
+  "tokens_in": 667,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-100585",
+  "region": "IN",
+  "path": "human",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "hinglish",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "Downloading payslips in bulk.",
+   "Bank file formats: NEFT, RTGS and bulk transfer.",
+   "Adding a new employee (single and bulk upload).",
+   "How to run monthly payroll."
+  ],
+  "top_score": 0.673,
+  "duplicate_of": null,
+  "similarity": 0.691,
+  "subject": "Payslip email kaise bhejein",
+  "body": "Sabhi employees ko payslip email kaise bhejein? Option nahi mil raha.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 1.115,
+   "dedupe": 0.957,
+   "route": 0.0,
+   "answer": 3.141,
+   "handoff": 0.125
+  },
+  "total_s": 5.399,
+  "tokens_in": 1011,
+  "tokens_out": 64
+ },
+ {
+  "ticket_id": "PN-101472",
+  "region": "IN",
+  "path": "human",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "hinglish",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "Downloading payslips in bulk.",
+   "Bank file formats: NEFT, RTGS and bulk transfer.",
+   "Adding a new employee (single and bulk upload).",
+   "How to run monthly payroll."
+  ],
+  "top_score": 0.673,
+  "duplicate_of": null,
+  "similarity": 0.55,
+  "subject": "Payslip email kaise bhejein",
+  "body": "Sabhi employees ko payslip email kaise bhejein? Option nahi mil raha.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.585,
+   "dedupe": 0.461,
+   "route": 0.0,
+   "answer": 8.25,
+   "handoff": 0.125
+  },
+  "total_s": 9.483,
+  "tokens_in": 1011,
+  "tokens_out": 64
+ },
+ {
+  "ticket_id": "PN-100453",
+  "region": "IN",
+  "path": "answer",
+  "queue": "Statutory-Compliance",
+  "category": "Statutory",
+  "reasons": [],
+  "language": "en",
+  "answer": "For employees drawing more than INR 15,000, the employer contribution is restricted to the wage ceiling unless a joint option is exercised. Employees drawing more than INR 15,000 may contribute on actual wage only through a joint option.",
+  "sources": [
+   "KB-0142",
+   "KB-0143"
+  ],
+  "contexts": [
+   "PF: wage ceiling and contribution calculation. The EPF statutory wage ceiling is INR 15,000 per month. PF is computed at 12% of basic+DA up to the ceiling. Employees drawing more than INR 15,000 may contribute on actual wage only through a joint option.",
+   "PF: employees above the wage ceiling (voluntary and restricted contribution). For employees above INR 15,000 wage, employer contribution is restricted to the ceiling unless the joint option is exercised.",
+   "ESI: contribution rates and wage limit.",
+   "PF: generating and uploading the ECR file."
+  ],
+  "top_score": 0.817,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "PF contribution on basic above ceiling",
+  "body": "Please confirm the PF contribution calculation for an employee with basic INR 53000. Is the contribution capped?",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.818,
+   "dedupe": 0.557,
+   "route": 0.0,
+   "answer": 3.103
+  },
+  "total_s": 4.54,
+  "tokens_in": 1116,
+  "tokens_out": 138
+ },
+ {
+  "ticket_id": "PN-100723",
+  "region": "IN",
+  "path": "human",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "hinglish",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "Downloading payslips in bulk.",
+   "Bank file formats: NEFT, RTGS and bulk transfer.",
+   "Adding a new employee (single and bulk upload).",
+   "How to run monthly payroll."
+  ],
+  "top_score": 0.673,
+  "duplicate_of": null,
+  "similarity": 0.727,
+  "subject": "Payslip email kaise bhejein",
+  "body": "Sabhi employees ko payslip email kaise bhejein? Option nahi mil raha.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 0.671,
+   "dedupe": 5.952,
+   "route": 0.0,
+   "answer": 18.553,
+   "handoff": 0.125
+  },
+  "total_s": 25.363,
+  "tokens_in": 1011,
+  "tokens_out": 56
+ },
+ {
+  "ticket_id": "PN-100520",
+  "region": "IN",
+  "path": "human",
+  "queue": "Reports-Analytics",
+  "category": "Reports",
+  "reasons": [
+   "suspected defect"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": 0.659,
+  "subject": "Salary register export is blank",
+  "body": "The monthly salary register export gives an empty file. Needed for audit.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 27.133,
+   "dedupe": 0.62,
+   "route": 0.0,
+   "handoff": 0.125
+  },
+  "total_s": 27.939,
+  "tokens_in": 656,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-101240",
+  "region": "IN",
+  "path": "human",
+  "queue": "Payroll-Ops",
+  "category": "Payroll",
+  "reasons": [
+   "money impact",
+   "suspected defect",
+   "Payroll needs account data or approval",
+   "duplicate of PN-101234"
+  ],
+  "language": "hinglish",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": "PN-101234",
+  "similarity": 0.91,
+  "subject": "Payslip blank aa rahi hai",
+  "body": "Meri payslip ka PDF blank aa raha hai aur net pay 0 dikha raha hai. Team ke baaki logon ke saath bhi yahi hua.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 4.971,
+   "dedupe": 0.851,
+   "route": 0.0,
+   "handoff": 0.125
+  },
+  "total_s": 6.009,
+  "tokens_in": 674,
+  "tokens_out": 39
+ },
+ {
+  "ticket_id": "PN-100192",
+  "region": "IN",
+  "path": "human",
+  "queue": "Reports-Analytics",
+  "category": "Reports",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "Custom report builder.",
+   "## Tiers\n- **L1**: first-line agents (24 FTE planned). Resolve from KB, categorise, gather information.\n- **L2**: senior agents and domain specialists (12). Complex payroll and statutory cases, workarounds.\n- **L3**: product-support engineers (6). Reproduce defects, own the Jira escalation, liaise with Engineering.",
+   "Adding a new employee (single and bulk upload).",
+   "Configuring leave policies and carry-forward."
+  ],
+  "top_score": 0.651,
+  "duplicate_of": null,
+  "similarity": 0.53,
+  "subject": "Custom report: headcount by cost centre",
+  "body": "How can I build a headcount by cost centre report with joiners and leavers?",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 66.221,
+   "dedupe": 0.651,
+   "route": 0.0,
+   "answer": 30.575,
+   "handoff": 0.125
+  },
+  "total_s": 97.636,
+  "tokens_in": 1072,
+  "tokens_out": 61
+ },
+ {
+  "ticket_id": "PN-101234",
+  "region": "IN",
+  "path": "human",
+  "queue": "Payroll-Ops",
+  "category": "Payroll",
+  "reasons": [
+   "money impact",
+   "suspected defect",
+   "Payroll needs account data or approval"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": 0.724,
+  "subject": "Payslip PDF is blank / shows net pay 0",
+  "body": "I opened my payslip for September and the PDF is blank with net pay 0. Others in my team have the same problem. Please fix.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 6.819,
+   "dedupe": 0.64,
+   "route": 0.0,
+   "handoff": 0.125
+  },
+  "total_s": 7.646,
+  "tokens_in": 678,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-100574",
+  "region": "IN",
+  "path": "answer",
+  "queue": "Reports-Analytics",
+  "category": "Reports",
+  "reasons": [],
+  "language": "en",
+  "answer": "You can use the Custom report builder to create your reports in Ramco Payce.",
+  "sources": [
+   "KB-0130"
+  ],
+  "contexts": [
+   "Custom report builder.",
+   "## Tiers\n- **L1**: first-line agents (24 FTE planned). Resolve from KB, categorise, gather information.\n- **L2**: senior agents and domain specialists (12). Complex payroll and statutory cases, workarounds.\n- **L3**: product-support engineers (6). Reproduce defects, own the Jira escalation, liaise with Engineering.",
+   "Adding a new employee (single and bulk upload).",
+   "Configuring leave policies and carry-forward."
+  ],
+  "top_score": 0.651,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Custom report: headcount by cost centre",
+  "body": "How can I build a headcount by cost centre report with joiners and leavers?",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.062,
+   "classify": 3.895,
+   "dedupe": 0.649,
+   "route": 0.0,
+   "answer": 15.768
+  },
+  "total_s": 20.374,
+  "tokens_in": 1072,
+  "tokens_out": 91
+ },
+ {
+  "ticket_id": "PN-101405",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Billing",
+  "category": "Billing",
+  "reasons": [
+   "money impact",
+   "Billing needs account data or approval"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Refund status",
+  "body": "Following up on the refund promised last month. Please confirm status.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.108,
+   "classify": 29.876,
+   "dedupe": 0.704,
+   "route": 0.0,
+   "handoff": 0.219
+  },
+  "total_s": 30.907,
+  "tokens_in": 652,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-100878",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Billing",
+  "category": "Billing",
+  "reasons": [
+   "money impact",
+   "suspected defect",
+   "Billing needs account data or approval"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Invoice shows wrong employee count",
+  "body": "The invoice for August bills us for 46 more employees than active headcount.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.108,
+   "classify": 21.541,
+   "dedupe": 0.933,
+   "route": 0.0,
+   "handoff": 0.217
+  },
+  "total_s": 22.799,
+  "tokens_in": 658,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-100276",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Payroll-Ops",
+  "category": "Payroll",
+  "reasons": [
+   "money impact",
+   "Payroll needs account data or approval"
+  ],
+  "language": "ar",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "خطأ في ملف WPS",
+  "body": "ظهر خطأ عند رفع ملف SIF إلى البنك لعدد 23 موظفين. هل تغير تنسيق الملف؟",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 12.751,
+   "dedupe": 0.71,
+   "route": 0.0,
+   "handoff": 0.217
+  },
+  "total_s": 13.785,
+  "tokens_in": 668,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-100931",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Billing",
+  "category": "Billing",
+  "reasons": [
+   "money impact",
+   "Billing needs account data or approval"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Invoice shows wrong employee count",
+  "body": "The invoice for August bills us for 39 more employees than active headcount.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 1.548,
+   "dedupe": 0.686,
+   "route": 0.0,
+   "handoff": 0.218
+  },
+  "total_s": 2.559,
+  "tokens_in": 658,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-101306",
+  "region": "UAE",
+  "path": "answer",
+  "queue": "Access-Support",
+  "category": "Access / Login",
+  "reasons": [],
+  "language": "ar",
+  "answer": "بخصوص مشكلة تسجيل الدخول إلى حساب المسؤول في Ramco Payce، يرجى مراجعة المقال [KB-0103] الخاص بإعادة تعيين كلمات المرور ومشاكل تسجيل الدخول عبر SSO.",
+  "sources": [
+   "KB-0103"
+  ],
+  "contexts": [
+   "Resetting passwords and SSO sign-in problems.",
+   "# Escalation Policy\n\n**Owner:** Head of Support  |  **Version:** 2.6  |  **Last reviewed:** 3 Mar 2025",
+   "## Not allowed\n- Skipping L2 to ping engineers on Slack directly.\n- Sharing screenshots containing another customer's data.",
+   "## Ownership\n- Jira tickets are owned by L3 until Engineering accepts. Engineering sets the fix date.\n- Support must update the customer at least every 4 hours on P1s and every 24 hours on P2s."
+  ],
+  "top_score": 0.681,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "مشكلة تسجيل الدخول",
+  "body": "لا أستطيع تسجيل الدخول إلى حساب المسؤول.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 11.94,
+   "dedupe": 1.14,
+   "route": 0.0,
+   "answer": 30.091
+  },
+  "total_s": 43.278,
+  "tokens_in": 1071,
+  "tokens_out": 125
+ },
+ {
+  "ticket_id": "PN-100265",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Leave-Attendance",
+  "category": "Leave & Attendance",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "## T+3 days\n11. Retrospective: tickets breaching SLA are reviewed by the Support Lead.\n12. Credits are processed by Finance from the breach report.",
+   "# Payroll Week Runbook\n\n**Owner:** Support Operations  |  **Version:** 3.0  |  **Last reviewed:** 9 Jun 2025\n\n\"Payroll week\" is the 25th of the month to the 3rd of the next month, when most customers run payroll, file statutory returns and release salaries.",
+   "## T-3 days\n4. Shift roster published. **All leave is blocked** for L1 and L2 from the 25th to the 3rd.\n5. Payroll-Ops queue is staffed with **at least 40% of L1 agents plus 3 L2 specialists** at all times.\n6. Auto-reply enabled with the link to \"Payroll week FAQs\".",
+   "## During payroll week\n7. First response targets are halved for P1 payroll tickets (30 minutes).\n8. Agents must not re-categorise tickets without Lead approval.\n9. If the same issue is reported by 5+ employees of one customer, the Lead declares an incident.\n10. Daily 17:00 stand-up: top issues, backlog age, SLA risk list."
+  ],
+  "top_score": 0.646,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Attendance regularisation not reflecting in payroll",
+  "body": "Regularised attendance days are not reflected in the July payroll inputs.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.214,
+   "classify": 0.844,
+   "dedupe": 1.039,
+   "route": 0.0,
+   "answer": 2.602,
+   "handoff": 0.217
+  },
+  "total_s": 4.916,
+  "tokens_in": 1252,
+  "tokens_out": 63
+ },
+ {
+  "ticket_id": "PN-101320",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Payroll-Ops",
+  "category": "Payroll",
+  "reasons": [
+   "P1",
+   "Payroll needs account data or approval"
+  ],
+  "language": "ar",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "خطأ في ملف WPS",
+  "body": "ظهر خطأ عند رفع ملف SIF إلى البنك لعدد 59 موظفين. هل تغير تنسيق الملف؟ Emirates ID [EID]. Please check his record.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 0.691,
+   "dedupe": 0.836,
+   "route": 0.0,
+   "handoff": 0.43
+  },
+  "total_s": 2.064,
+  "tokens_in": 679,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-101192",
+  "region": "UAE",
+  "path": "answer",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [],
+  "language": "en",
+  "answer": "Yes, you can download payslips in bulk as described in KB-0105.",
+  "sources": [
+   "KB-0105"
+  ],
+  "contexts": [
+   "Downloading payslips in bulk.",
+   "Adding a new employee (single and bulk upload).",
+   "Data export and employee data deletion requests.",
+   "WPS: bank routing code and employee card setup."
+  ],
+  "top_score": 0.727,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "How to download all payslips together",
+  "body": "We need all payslips for September as one zip. Is there a way? Emirates ID [EID]. Please check his record.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 0.761,
+   "dedupe": 0.689,
+   "route": 0.0,
+   "answer": 2.819
+  },
+  "total_s": 4.376,
+  "tokens_in": 1029,
+  "tokens_out": 95
+ },
+ {
+  "ticket_id": "PN-100740",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Payroll-Ops",
+  "category": "Payroll",
+  "reasons": [
+   "money impact",
+   "suspected defect",
+   "Payroll needs account data or approval"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Payslip net pay does not match bank file",
+  "body": "Net pay on the payslips differs from the amount in the bank file we downloaded for 8 employees. We cannot release the file until this is explained.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.108,
+   "classify": 0.668,
+   "dedupe": 0.411,
+   "route": 0.0,
+   "handoff": 0.217
+  },
+  "total_s": 1.404,
+  "tokens_in": 677,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-101009",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Payroll-Ops",
+  "category": "Payroll",
+  "reasons": [
+   "money impact",
+   "Payroll needs account data or approval"
+  ],
+  "language": "ar",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "خطأ في ملف WPS",
+  "body": "ظهر خطأ عند رفع ملف SIF إلى البنك لعدد 12 موظفين. هل تغير تنسيق الملف؟",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 0.567,
+   "dedupe": 1.609,
+   "route": 0.0,
+   "handoff": 0.217
+  },
+  "total_s": 2.5,
+  "tokens_in": 668,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-101496",
+  "region": "UAE",
+  "path": "human",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "Adding a new employee (single and bulk upload).",
+   "Downloading payslips in bulk.",
+   "Data export and employee data deletion requests.",
+   "## 1. Intake\n1. Tickets arrive from email, the in-app widget, the partner/reseller portal, WhatsApp (shared inbox), and phone (agent logs a ticket after the call).\n2. **Every ticket is categorised at intake.** The customer or the agent selects one of the nine categories from the dropdown. The category cannot be left blank.\n3. Category drives **automatic routing** to the owning queue. No manual routing is required.\n\n| Category | Queue |\n|---|---|\n| Payroll | Payroll-Ops |\n| Statutory | Statutory-Compliance |\n| How-To | General-L1 |\n| Reports | Reports-Analytics |\n| Leave & Attendance | Leave-Attendance |\n| Integration | Integrations |\n| Billing | Billing |\n| Access / Login | Access-Support |\n| Onboarding | Onboarding |"
+  ],
+  "top_score": 0.762,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "How do I add employees in bulk?",
+  "body": "Where can I find the bulk upload template and how do we map the columns?",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 0.489,
+   "dedupe": 1.667,
+   "route": 0.0,
+   "answer": 7.258,
+   "handoff": 0.215
+  },
+  "total_s": 9.736,
+  "tokens_in": 1182,
+  "tokens_out": 63
+ },
+ {
+  "ticket_id": "PN-100987",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Leave-Attendance",
+  "category": "Leave & Attendance",
+  "reasons": [
+   "suspected defect"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Leave balance not carried forward",
+  "body": "Year-end carry forward did not apply for 48 employees. Balances show zero.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 0.53,
+   "dedupe": 0.693,
+   "route": 0.0,
+   "handoff": 0.215
+  },
+  "total_s": 1.544,
+  "tokens_in": 661,
+  "tokens_out": 40
+ },
+ {
+  "ticket_id": "PN-100011",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Payroll-Ops",
+  "category": "Payroll",
+  "reasons": [
+   "money impact",
+   "Payroll needs account data or approval"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Arrears not included in this month",
+  "body": "Arrears approved last cycle were not picked up in the June run for 37 people. Please advise how to add them without re-running everything.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.109,
+   "classify": 0.653,
+   "dedupe": 6.634,
+   "route": 0.0,
+   "handoff": 0.215
+  },
+  "total_s": 7.612,
+  "tokens_in": 677,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-101259",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Integrations",
+  "category": "Integration",
+  "reasons": [
+   "suspected defect",
+   "Integration needs account data or approval"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "API token returns 401",
+  "body": "Our integration token suddenly returns 401 since yesterday. Nothing was changed on our side.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 33.55,
+   "dedupe": 0.839,
+   "route": 0.0,
+   "handoff": 0.215
+  },
+  "total_s": 34.71,
+  "tokens_in": 663,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-101292",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Payroll-Ops",
+  "category": "Payroll",
+  "reasons": [
+   "P1",
+   "money impact",
+   "Payroll needs account data or approval"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "WPS rejection code on upload",
+  "body": "The bank returned a rejection code for the SIF file of 58 employees. KB-0202 does not list this case.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 94.299,
+   "dedupe": 0.725,
+   "route": 0.0,
+   "handoff": 0.214
+  },
+  "total_s": 95.346,
+  "tokens_in": 671,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-100514",
+  "region": "UAE",
+  "path": "answer",
+  "queue": "Statutory-Compliance",
+  "category": "Statutory",
+  "reasons": [],
+  "language": "en",
+  "answer": "Yes, the WPS SIF file format has changed. It is moving from v2 (14 columns) to v3 (16 columns), which includes a new mandatory establishment-reference column and a revised EDR record layout, effective from 2026-07-15.",
+  "sources": [
+   "R-UAE-WPS-2026-07"
+  ],
+  "contexts": [
+   "WPS SIF file format moves from v2 to v3 (new mandatory establishment-reference column, revised EDR record layout). Effective from 2026-07-15. Previous: SIF v2 (14 columns). Now: SIF v3 (16 columns, new EDR layout). Source: Central Bank / MoHRE notice (fictional).",
+   "WPS: bank routing code and employee card setup.",
+   "## T-10 days (by the 15th)\n1. Compliance India and Compliance UAE send Support a **statutory change notice** for anything taking effect in the coming cycle.\n2. Content Team **updates the affected KB articles** before the change goes live and updates the \"last reviewed\" date.\n3. Support Operations briefs all L1/L2 agents in the weekly huddle.",
+   "# Master Services Agreement: Schedule 3, Support Service Levels (excerpt)\n\n*Template v3.2, effective for contracts signed or renewed on or after 1 January 2025. Extract prepared by Legal for the support team; if this extract and the signed contract differ, the signed contract wins.*"
+  ],
+  "top_score": 0.82,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "WPS file format question",
+  "body": "Has the WPS SIF file layout changed recently? Our bank asked us to confirm the version. We have been using KB-0201.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 13.379,
+   "dedupe": 0.698,
+   "route": 0.0,
+   "answer": 3.577
+  },
+  "total_s": 17.76,
+  "tokens_in": 1283,
+  "tokens_out": 145
+ },
+ {
+  "ticket_id": "PN-100516",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Payroll-Ops",
+  "category": "Payroll",
+  "reasons": [
+   "money impact",
+   "Payroll needs account data or approval"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Bank rejected our WPS file",
+  "body": "The bank portal rejected the WPS file generated from Ramco Payce for 6 employees. We followed KB-0201. Salary deadline is close, please help.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 0.624,
+   "dedupe": 0.696,
+   "route": 0.0,
+   "handoff": 0.214
+  },
+  "total_s": 1.641,
+  "tokens_in": 677,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-101180",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Integrations",
+  "category": "Integration",
+  "reasons": [
+   "suspected defect",
+   "Integration needs account data or approval"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Webhook not firing on payroll completion",
+  "body": "Webhook for payroll.completed did not fire for the last two runs.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 0.551,
+   "dedupe": 1.267,
+   "route": 0.0,
+   "handoff": 0.215
+  },
+  "total_s": 2.14,
+  "tokens_in": 659,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-100883",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Access-Support",
+  "category": "Access / Login",
+  "reasons": [
+   "suspected defect"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "SSO login loop",
+  "body": "SSO redirects back to the login page repeatedly for several users.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 0.581,
+   "dedupe": 0.672,
+   "route": 0.0,
+   "handoff": 0.215
+  },
+  "total_s": 1.575,
+  "tokens_in": 652,
+  "tokens_out": 40
+ },
+ {
+  "ticket_id": "PN-101175",
+  "region": "UAE",
+  "path": "human",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "## Tiers\n- **L1**: first-line agents (24 FTE planned). Resolve from KB, categorise, gather information.\n- **L2**: senior agents and domain specialists (12). Complex payroll and statutory cases, workarounds.\n- **L3**: product-support engineers (6). Reproduce defects, own the Jira escalation, liaise with Engineering.",
+   "Data export and employee data deletion requests.",
+   "Configuring leave policies and carry-forward.",
+   "## Not allowed\n- Skipping L2 to ping engineers on Slack directly.\n- Sharing screenshots containing another customer's data."
+  ],
+  "top_score": 0.619,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "How do I restrict who sees salary data?",
+  "body": "We want only HR heads to see CTC. How to set role permissions?",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 0.563,
+   "dedupe": 1.118,
+   "route": 0.0,
+   "answer": 3.52,
+   "handoff": 0.215
+  },
+  "total_s": 5.522,
+  "tokens_in": 1092,
+  "tokens_out": 63
+ },
+ {
+  "ticket_id": "PN-100855",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Billing",
+  "category": "Billing",
+  "reasons": [
+   "money impact",
+   "Billing needs account data or approval"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Refund status",
+  "body": "Following up on the refund promised last month. Please confirm status.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 0.59,
+   "dedupe": 1.265,
+   "route": 0.0,
+   "handoff": 0.214
+  },
+  "total_s": 2.175,
+  "tokens_in": 652,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-100943",
+  "region": "UAE",
+  "path": "answer",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [],
+  "language": "en",
+  "answer": "To add employees in bulk, please refer to [KB-0102] Adding a new employee (single and bulk upload).",
+  "sources": [
+   "KB-0102"
+  ],
+  "contexts": [
+   "Adding a new employee (single and bulk upload).",
+   "Downloading payslips in bulk.",
+   "Data export and employee data deletion requests.",
+   "## 1. Intake\n1. Tickets arrive from email, the in-app widget, the partner/reseller portal, WhatsApp (shared inbox), and phone (agent logs a ticket after the call).\n2. **Every ticket is categorised at intake.** The customer or the agent selects one of the nine categories from the dropdown. The category cannot be left blank.\n3. Category drives **automatic routing** to the owning queue. No manual routing is required.\n\n| Category | Queue |\n|---|---|\n| Payroll | Payroll-Ops |\n| Statutory | Statutory-Compliance |\n| How-To | General-L1 |\n| Reports | Reports-Analytics |\n| Leave & Attendance | Leave-Attendance |\n| Integration | Integrations |\n| Billing | Billing |\n| Access / Login | Access-Support |\n| Onboarding | Onboarding |"
+  ],
+  "top_score": 0.762,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "How do I add employees in bulk?",
+  "body": "Where can I find the bulk upload template and how do we map the columns?",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.106,
+   "classify": 59.107,
+   "dedupe": 1.047,
+   "route": 0.0,
+   "answer": 32.587
+  },
+  "total_s": 92.848,
+  "tokens_in": 1182,
+  "tokens_out": 104
+ },
+ {
+  "ticket_id": "PN-100143",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Payroll-Ops",
+  "category": "Payroll",
+  "reasons": [
+   "money impact",
+   "Payroll needs account data or approval"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Salary not credited for some employees",
+  "body": "We ran payroll for July on time but 53 employees say salary has not reached their bank account. Payroll status shows 'Completed'. Please check urgently, it is salary week.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 8.045,
+   "dedupe": 1.308,
+   "route": 0.0,
+   "handoff": 0.215
+  },
+  "total_s": 9.676,
+  "tokens_in": 679,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-100793",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Leave-Attendance",
+  "category": "Leave & Attendance",
+  "reasons": [
+   "suspected defect"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Leave balance not carried forward",
+  "body": "Year-end carry forward did not apply for 52 employees. Balances show zero.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 0.618,
+   "dedupe": 1.1,
+   "route": 0.0,
+   "handoff": 0.215
+  },
+  "total_s": 2.041,
+  "tokens_in": 661,
+  "tokens_out": 40
+ },
+ {
+  "ticket_id": "PN-101437",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Billing",
+  "category": "Billing",
+  "reasons": [
+   "money impact",
+   "Billing needs account data or approval"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Invoice shows wrong employee count",
+  "body": "The invoice for September bills us for 16 more employees than active headcount.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 9.922,
+   "dedupe": 0.833,
+   "route": 0.0,
+   "handoff": 0.215
+  },
+  "total_s": 11.077,
+  "tokens_in": 658,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-100258",
+  "region": "UAE",
+  "path": "answer",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [],
+  "language": "ar",
+  "answer": "يمكنك تحميل كشوف الرواتب لجميع الموظفين دفعة واحدة من خلال ميزة تحميل كشوف الرواتب دفعة واحدة.",
+  "sources": [
+   "KB-0105"
+  ],
+  "contexts": [
+   "Downloading payslips in bulk.",
+   "Adding a new employee (single and bulk upload).",
+   "WPS: bank routing code and employee card setup.",
+   "How to run monthly payroll."
+  ],
+  "top_score": 0.718,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "تحميل كشوف الرواتب",
+  "body": "كيف يمكنني تحميل كشوف الرواتب لجميع الموظفين دفعة واحدة؟ Salary account IBAN [IBAN], Emirates ID [EID].",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 70.021,
+   "dedupe": 1.388,
+   "route": 0.0,
+   "answer": 50.291
+  },
+  "total_s": 121.806,
+  "tokens_in": 1033,
+  "tokens_out": 106
+ },
+ {
+  "ticket_id": "PN-100559",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Access-Support",
+  "category": "Access / Login",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "ar",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "Resetting passwords and SSO sign-in problems.",
+   "# Escalation Policy\n\n**Owner:** Head of Support  |  **Version:** 2.6  |  **Last reviewed:** 3 Mar 2025",
+   "## Not allowed\n- Skipping L2 to ping engineers on Slack directly.\n- Sharing screenshots containing another customer's data.",
+   "## Ownership\n- Jira tickets are owned by L3 until Engineering accepts. Engineering sets the fix date.\n- Support must update the customer at least every 4 hours on P1s and every 24 hours on P2s."
+  ],
+  "top_score": 0.681,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "مشكلة تسجيل الدخول",
+  "body": "لا أستطيع تسجيل الدخول إلى حساب المسؤول.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 9.702,
+   "dedupe": 0.828,
+   "route": 0.0,
+   "answer": 14.724,
+   "handoff": 0.216
+  },
+  "total_s": 25.576,
+  "tokens_in": 1071,
+  "tokens_out": 63
+ },
+ {
+  "ticket_id": "PN-100304",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Statutory-Compliance",
+  "category": "Statutory",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "ar",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "End-of-service gratuity: clarification on part-time and fixed-term calculation. Effective from 2026-01-01. Previous: 21 days basic per year (first 5 years). Now: unchanged; clarification only. Source: MoHRE guidance (fictional).",
+   "UAE end-of-service gratuity calculation.",
+   "# Master Services Agreement: Schedule 3, Support Service Levels (excerpt)\n\n*Template v3.2, effective for contracts signed or renewed on or after 1 January 2025. Extract prepared by Legal for the support team; if this extract and the signed contract differ, the signed contract wins.*",
+   "Full and final settlement process."
+  ],
+  "top_score": 0.64,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "احتساب مكافأة نهاية الخدمة",
+  "body": "كيف يتم احتساب مكافأة نهاية الخدمة للموظف الذي أكمل ٣ سنوات؟",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 1.221,
+   "dedupe": 0.91,
+   "route": 0.0,
+   "answer": 2.775,
+   "handoff": 0.215
+  },
+  "total_s": 5.227,
+  "tokens_in": 1150,
+  "tokens_out": 62
+ },
+ {
+  "ticket_id": "PN-100909",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Payroll-Ops",
+  "category": "Payroll",
+  "reasons": [
+   "money impact",
+   "suspected defect",
+   "Payroll needs account data or approval"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Payslip net pay does not match bank file",
+  "body": "Net pay on the payslips differs from the amount in the bank file we downloaded for 56 employees. We cannot release the file until this is explained.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 0.645,
+   "dedupe": 0.727,
+   "route": 0.0,
+   "handoff": 0.216
+  },
+  "total_s": 1.695,
+  "tokens_in": 678,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-100737",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Integrations",
+  "category": "Integration",
+  "reasons": [
+   "suspected defect",
+   "Integration needs account data or approval"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Webhook not firing on payroll completion",
+  "body": "Webhook for payroll.completed did not fire for the last two runs.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 0.569,
+   "dedupe": 1.164,
+   "route": 0.0,
+   "handoff": 0.215
+  },
+  "total_s": 2.055,
+  "tokens_in": 659,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-101524",
+  "region": "UAE",
+  "path": "human",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "Downloading payslips in bulk.",
+   "# Payroll Week Runbook\n\n**Owner:** Support Operations  |  **Version:** 3.0  |  **Last reviewed:** 9 Jun 2025\n\n\"Payroll week\" is the 25th of the month to the 3rd of the next month, when most customers run payroll, file statutory returns and release salaries.",
+   "Adding a new employee (single and bulk upload).",
+   "WPS: bank routing code and employee card setup."
+  ],
+  "top_score": 0.761,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Re: How to download all payslips together",
+  "body": "Following up on my earlier ticket PN-100975, no reply yet. We need all payslips for August as one zip. Is there a way?",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 0.558,
+   "dedupe": 0.791,
+   "route": 0.0,
+   "answer": 3.14,
+   "handoff": 0.215
+  },
+  "total_s": 4.812,
+  "tokens_in": 1113,
+  "tokens_out": 63
+ },
+ {
+  "ticket_id": "PN-100160",
+  "region": "UAE",
+  "path": "human",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "## Tiers\n- **L1**: first-line agents (24 FTE planned). Resolve from KB, categorise, gather information.\n- **L2**: senior agents and domain specialists (12). Complex payroll and statutory cases, workarounds.\n- **L3**: product-support engineers (6). Reproduce defects, own the Jira escalation, liaise with Engineering.",
+   "Data export and employee data deletion requests.",
+   "Configuring leave policies and carry-forward.",
+   "## Not allowed\n- Skipping L2 to ping engineers on Slack directly.\n- Sharing screenshots containing another customer's data."
+  ],
+  "top_score": 0.619,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "How do I restrict who sees salary data?",
+  "body": "We want only HR heads to see CTC. How to set role permissions?",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 3.02,
+   "dedupe": 0.462,
+   "route": 0.0,
+   "answer": 2.704,
+   "handoff": 0.216
+  },
+  "total_s": 6.509,
+  "tokens_in": 1092,
+  "tokens_out": 63
+ },
+ {
+  "ticket_id": "PN-100067",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Leave-Attendance",
+  "category": "Leave & Attendance",
+  "reasons": [
+   "P1",
+   "money impact"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Attendance regularisation not reflecting in payroll",
+  "body": "Regularised attendance days are not reflected in the June payroll inputs.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 2.786,
+   "dedupe": 0.827,
+   "route": 0.0,
+   "handoff": 0.214
+  },
+  "total_s": 3.934,
+  "tokens_in": 657,
+  "tokens_out": 40
+ },
+ {
+  "ticket_id": "PN-100251",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Payroll-Ops",
+  "category": "Payroll",
+  "reasons": [
+   "money impact",
+   "suspected defect",
+   "Payroll needs account data or approval"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Salary not credited for some employees",
+  "body": "We ran payroll for July on time but 42 employees say salary has not reached their bank account. Payroll status shows 'Completed'. Please check urgently, it is salary week.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 21.671,
+   "dedupe": 1.131,
+   "route": 0.0,
+   "handoff": 0.215
+  },
+  "total_s": 23.124,
+  "tokens_in": 679,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-100811",
+  "region": "UAE",
+  "path": "human",
+  "queue": "Payroll-Ops",
+  "category": "Payroll",
+  "reasons": [
+   "money impact",
+   "Payroll needs account data or approval"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [],
+  "top_score": null,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "Arrears not included in this month",
+  "body": "Arrears approved last cycle were not picked up in the August run for 5 people. Please advise how to add them without re-running everything.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 1.587,
+   "dedupe": 0.742,
+   "route": 0.0,
+   "handoff": 0.215
+  },
+  "total_s": 2.651,
+  "tokens_in": 676,
+  "tokens_out": 38
+ },
+ {
+  "ticket_id": "PN-100130",
+  "region": "UAE",
+  "path": "human",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "## T-10 days (by the 15th)\n1. Compliance India and Compliance UAE send Support a **statutory change notice** for anything taking effect in the coming cycle.\n2. Content Team **updates the affected KB articles** before the change goes live and updates the \"last reviewed\" date.\n3. Support Operations briefs all L1/L2 agents in the weekly huddle.",
+   "Configuring leave policies and carry-forward.",
+   "How to run monthly payroll.",
+   "## T-3 days\n4. Shift roster published. **All leave is blocked** for L1 and L2 from the 25th to the 3rd.\n5. Payroll-Ops queue is staffed with **at least 40% of L1 agents plus 3 L2 specialists** at all times.\n6. Auto-reply enabled with the link to \"Payroll week FAQs\"."
+  ],
+  "top_score": 0.631,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "How to change the approver for payroll",
+  "body": "How do I change the payroll approver after our finance head left?",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 0.627,
+   "dedupe": 6.208,
+   "route": 0.0,
+   "answer": 16.349,
+   "handoff": 0.216
+  },
+  "total_s": 23.507,
+  "tokens_in": 1166,
+  "tokens_out": 63
+ },
+ {
+  "ticket_id": "PN-100323",
+  "region": "UAE",
+  "path": "human",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [
+   "no supported answer (model: context does not answer)"
+  ],
+  "language": "en",
+  "answer": "",
+  "sources": [],
+  "contexts": [
+   "Adding a new employee (single and bulk upload).",
+   "How to run monthly payroll.",
+   "Configuring leave policies and carry-forward.",
+   "Downloading payslips in bulk."
+  ],
+  "top_score": 0.647,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "How to add a new salary component",
+  "body": "Steps to add a new allowance and make it taxable please.",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 6.824,
+   "dedupe": 1.058,
+   "route": 0.0,
+   "answer": 2.506,
+   "handoff": 0.215
+  },
+  "total_s": 10.711,
+  "tokens_in": 991,
+  "tokens_out": 63
+ },
+ {
+  "ticket_id": "PN-100570",
+  "region": "UAE",
+  "path": "answer",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [],
+  "language": "ar",
+  "answer": "يمكنك تحميل كشوف الرواتب دفعة واحدة من خلال ميزة تحميل كشوف الرواتب دفعات.",
+  "sources": [
+   "KB-0105"
+  ],
+  "contexts": [
+   "Downloading payslips in bulk.",
+   "Adding a new employee (single and bulk upload).",
+   "How to run monthly payroll.",
+   "# Payroll Week Runbook\n\n**Owner:** Support Operations  |  **Version:** 3.0  |  **Last reviewed:** 9 Jun 2025\n\n\"Payroll week\" is the 25th of the month to the 3rd of the next month, when most customers run payroll, file statutory returns and release salaries."
+  ],
+  "top_score": 0.73,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "تحميل كشوف الرواتب",
+  "body": "كيف يمكنني تحميل كشوف الرواتب لجميع الموظفين دفعة واحدة؟",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 0.935,
+   "dedupe": 0.793,
+   "route": 0.0,
+   "answer": 2.699
+  },
+  "total_s": 4.534,
+  "tokens_in": 1064,
+  "tokens_out": 100
+ },
+ {
+  "ticket_id": "PN-100070",
+  "region": "UAE",
+  "path": "answer",
+  "queue": "General-L1",
+  "category": "How-To",
+  "reasons": [],
+  "language": "ar",
+  "answer": "يمكنك تحميل كشوف الرواتب لجميع الموظفين دفعة واحدة من خلال ميزة تحميل كشوف الرواتب دفعة واحدة المتاحة في النظام.",
+  "sources": [
+   "KB-0105"
+  ],
+  "contexts": [
+   "Downloading payslips in bulk.",
+   "Adding a new employee (single and bulk upload).",
+   "How to run monthly payroll.",
+   "# Payroll Week Runbook\n\n**Owner:** Support Operations  |  **Version:** 3.0  |  **Last reviewed:** 9 Jun 2025\n\n\"Payroll week\" is the 25th of the month to the 3rd of the next month, when most customers run payroll, file statutory returns and release salaries."
+  ],
+  "top_score": 0.73,
+  "duplicate_of": null,
+  "similarity": null,
+  "subject": "تحميل كشوف الرواتب",
+  "body": "كيف يمكنني تحميل كشوف الرواتب لجميع الموظفين دفعة واحدة؟",
+  "timings": {
+   "pii": 0.0,
+   "lookup": 0.107,
+   "classify": 0.799,
+   "dedupe": 0.703,
+   "route": 0.0,
+   "answer": 2.708
+  },
+  "total_s": 4.317,
+  "tokens_in": 1064,
+  "tokens_out": 111
+ }
+]
